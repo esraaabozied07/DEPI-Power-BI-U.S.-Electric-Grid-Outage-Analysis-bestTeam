@@ -121,4 +121,4 @@ This project was developed by a team of Senior Analytics Consultants:
 
 ## Contact
 
-For inquiries or collaboration, please contact me on [[Linkedin](www.linkedin.com/in/esraa-abozied-1a53ba2b3)].
+For inquiries or collaboration, please contact me on [[Linkedin](www.linkedin.com/in/esraa-abozied-1a53ba2b3/)].
